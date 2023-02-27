@@ -1,2 +1,4 @@
-SELECT notes FROM purchase_oreders
-WHERE SUBSTRING(notes, -2, 2) BETWEEN 30 AND 39;
+SELECT notes FROM purchase_orders
+WHERE notes
+BETWEEN 'Purchase generated based on Order #30'
+AND 'Purchase generated based on Order #39';
