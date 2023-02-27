@@ -1,1 +1,3 @@
-SELECT 5 + 6 AS A, 'de' AS Trybe, 2 + 8 AS eh;
+SELECT CONCAT(first_name, " ", last_name) AS full_name,
+CONCAT(city, "-", state_province, ", ", address) AS location
+FROM employees;
