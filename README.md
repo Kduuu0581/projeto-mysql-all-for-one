@@ -1,13 +1,5 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto SQL - All For One!
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Segundo projeto do módulo de back-end do curso de desenvolvimento web da Trybe, consiste em uma série de desafios em diferentes níveis de complexidades onde precisamos criar queries SQL para encontrar, filtrar e manipular informações no banco de dados Northwind. Neste projeto utilizei Docker, MySQL e Workbench.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Toda estrutura do projeto foi fornecida pela Trybe, requisitos realizados nos arquivos ${desafioN.sql} na raiz do projeto.
